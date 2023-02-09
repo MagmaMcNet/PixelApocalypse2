@@ -1,0 +1,16 @@
+*/
+*.*
+
+# Folders
+!Assets/
+!Mods/
+!ProjectSettings/
+!Packages/
+!UserSettings/
+
+
+# Files
+!.git*
+!*.csproj
+!*.sln
+!LICENSE.*
